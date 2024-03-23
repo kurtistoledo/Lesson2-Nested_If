@@ -1,3 +1,5 @@
+# 1. Nested Decisions: The Adventure Game
+# Task 1: Code Correction
 place = input("Choose a place: forest or cave? ")
 
 if place == "forest":
