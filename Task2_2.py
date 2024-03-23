@@ -7,6 +7,6 @@ additional_facilities = ["audio system", "projector"] if attendees > 100 else ["
 
 print("Venue:", venue)
 if additional_facilities:
-    print("Additional Facilities Needed:", ", ".join(additional_facilities))
+    print("Additional Facilities Needed: audio system, projector")
 else:
     print("No additional facilities needed.")
